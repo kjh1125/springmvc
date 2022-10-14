@@ -10,5 +10,6 @@
 	<a href="hello">안녕하세요</a><br/>
 	<a href="blog/1004">URL 파라미터</a><br />
 	<a href="parameter">파라미터 읽기</a><br />
+	<a href="getall">DB 읽어오기</a><br />
 </body>
 </html>

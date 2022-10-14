@@ -34,4 +34,7 @@
 	class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
 	</beans:bean>
 	
+	<!-- css 적용 안 될 때 // controller가 안 될 때 webcontainer가 대신 처리 -->
+	<default-servlet-handler/>
+	
 </beans:beans>

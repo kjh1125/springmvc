@@ -32,6 +32,7 @@
 	</servlet>
 
 	<!-- Dispatcher-Servlet 과 URL 매핑 -->
+	<!-- <url-pattern>/</url-pattern> /를 쓰는 경우 .jsp를 제외한 모든요청 처리 -->
 	<servlet-mapping>
 		<servlet-name>appServlet</servlet-name>
 		<url-pattern>/</url-pattern>
